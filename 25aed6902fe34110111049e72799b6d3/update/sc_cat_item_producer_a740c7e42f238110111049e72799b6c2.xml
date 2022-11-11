@@ -17,6 +17,7 @@
         <display_price_property>non_zero</display_price_property>
         <entitlement_script/>
         <flow_designer_flow/>
+        <fulfillment_automation_level>unspecified</fulfillment_automation_level>
         <group/>
         <hide_sp>false</hide_sp>
         <icon/>
@@ -44,7 +45,7 @@
         <omit_price>false</omit_price>
         <order>0</order>
         <ordered_item_link/>
-        <owner display_value="Rebecca M. Admin">6816f79cc0a8016401c5a33be04be441</owner>
+        <owner display_value="Rebecca Maza">6816f79cc0a8016401c5a33be04be441</owner>
         <picture/>
         <post_insert_script><![CDATA[/**
 * This script is executed after the record is generated. 
@@ -86,14 +87,11 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-05-15 22:40:00</sys_created_on>
         <sys_id>a740c7e42f238110111049e72799b6c2</sys_id>
-        <sys_mod_count>17</sys_mod_count>
         <sys_name>Departmental request</sys_name>
         <sys_package display_value="Dept Request" source="x_767916_dept_re_0">25aed6902fe34110111049e72799b6d3</sys_package>
         <sys_policy/>
         <sys_scope display_value="Dept Request">25aed6902fe34110111049e72799b6d3</sys_scope>
         <sys_update_name>sc_cat_item_producer_a740c7e42f238110111049e72799b6c2</sys_update_name>
-        <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2022-05-15 23:09:00</sys_updated_on>
         <table_name>x_767916_dept_re_0_request</table_name>
         <taxonomy_topic/>
         <template/>

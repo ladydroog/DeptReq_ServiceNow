@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" db_object_id="d3302ed02fe34110111049e72799b6d6" extends="task" label="Request" max_length="40" name="x_767916_dept_re_0_request" type="collection">
+        <element label="Type" max_length="32" name="type" reference="x_767916_dept_re_0_type" type="reference"/>
+    </element>
+</database>

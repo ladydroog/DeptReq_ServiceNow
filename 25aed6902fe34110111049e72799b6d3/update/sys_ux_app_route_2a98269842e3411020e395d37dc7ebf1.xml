@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config display_value="Dept Request Config">e6982698cfe34110c32a4f1b2a01c4f0</app_config>
+        <description/>
+        <extension_point/>
+        <fields/>
+        <icon/>
+        <name>Analytics Center</name>
+        <optional_parameters/>
+        <order>0</order>
+        <parent_macroponent display_value="Agent Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent>
+        <parent_macroponent_composition_element_id/>
+        <route_type>analytics-center</route_type>
+        <screen_type display_value="Analytics Center">e698269834e341103e1eac9378e21ef1</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-15 02:17:58</sys_created_on>
+        <sys_id>2a98269842e3411020e395d37dc7ebf1</sys_id>
+        <sys_name>Analytics Center</sys_name>
+        <sys_package display_value="Dept Request" source="x_767916_dept_re_0">25aed6902fe34110111049e72799b6d3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Dept Request">25aed6902fe34110111049e72799b6d3</sys_scope>
+        <sys_update_name>sys_ux_app_route_2a98269842e3411020e395d37dc7ebf1</sys_update_name>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=2a98269842e3411020e395d37dc7ebf1"/>
+</record_update>
